@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+h3 {
+    color: gold;
+}
+h4 {
+    color: darkorange;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: lightsteelblue;
+    padding: 50px;
+    border: solid 25px mediumpurple;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
