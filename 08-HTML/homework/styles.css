@@ -1,23 +1,47 @@
 h1 {
     color: brown;
+    display: flex;
+    justify-content: center;
+
 }
 h3 {
-    color: gold;
+    color: brown;
+    display: flex;
+    justify-content: center;
 }
 h4 {
-    color: darkorange;
+    color: brown;
+    display: flex;
+    justify-content: center;
 }
 img {
-    width: 400px;
+    width: 410px;
+    height: 280px;
 }
 #thirdDiv {
     height: 600px;
     width: 500px;
-    background-color: lightsteelblue;
+    background-color: blue;
     padding: 50px;
-    border: solid 25px mediumpurple;
+    border: solid 25px lightsteelblue;
+    margin: auto;
 }
 #spanId {
     font-size: 18px;
     margin: 50px;
+    color: brown;
+    display: flex;
+    justify-content: center;
+}
+a {
+    color: gold;
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-image: url(peces.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
